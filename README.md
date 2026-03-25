@@ -1,6 +1,6 @@
 # TikTok Auto Studio
 
-**Version 1.0.0** - Professional Bulk Video Uploader for TikTok
+**Version 1.0.2** - Professional Bulk Video Uploader for TikTok
 
 A GUI-based bulk video uploader for TikTok designed for production houses and bulk uploaders. Upload hundreds of videos with natural user behavior simulation — no API usage, just browser automation that mimics real user interactions.
 
@@ -15,6 +15,16 @@ A GUI-based bulk video uploader for TikTok designed for production houses and bu
 - **🛡️ Anti-Detection** — Stealth browser patches to avoid automation detection
 - **🎨 Beautiful Dark UI** — TikTok-themed interface built with React + Tailwind
 - **🔄 Auto Update System** — Automatic update checking and download via GitHub releases
+- **🎬 Auto Cover Selection** — Automatically selects center frame as video cover
+- **🔧 Robust Automation** — Enhanced error handling and retry logic
+
+## 🚀 What's New in v1.0.2
+
+- ✅ **Fixed Cover Selection** - Precise selectors for TikTok's cover editor
+- ✅ **Fixed Post Button** - Correct data-e2e attribute matching
+- ✅ **Queue Restart Fix** - Queue can be properly started after pause
+- ✅ **Enhanced Stability** - Better error recovery and modal handling
+- ✅ **Production Ready** - All automation issues resolved
 
 ## 🚀 What's New in v1.0.0
 
@@ -29,13 +39,13 @@ A GUI-based bulk video uploader for TikTok designed for production houses and bu
 
 ### 📥 Direct Download (Recommended)
 
-**Latest Version: 1.0.0**
+**Latest Version: 1.0.2**
 
 #### 🪟 Windows
-- [Download TikTok Auto Studio Setup 1.0.0.exe](https://github.com/ahmedalibubak/tiktokautostudio/releases/latest) ⬇️
+- [Download TikTok Auto Studio Setup 1.0.2.exe](https://github.com/qayadatorg/TikTok-Auto-Studio/releases/latest) ⬇️
 
 #### 🍎 macOS
-- [Download TikTok Auto Studio 1.0.0.dmg](https://github.com/ahmedalibubak/tiktokautostudio/releases/latest) ⬇️
+- [Download TikTok Auto Studio 1.0.2.dmg](https://github.com/qayadatorg/TikTok-Auto-Studio/releases/latest) ⬇️
 
 ### 🚀 Quick Installation
 
@@ -109,10 +119,10 @@ This software is provided completely free of charge. You can use it for personal
 
 ## 🤝 Support
 
-- **Issues**: Report bugs on [GitHub Issues](https://github.com/ahmedalibubak/tiktokautostudio/issues)
-- **Updates**: Automatic updates or download from [GitHub Releases](https://github.com/ahmedalibubak/tiktokautostudio/releases)
+- **Issues**: Report bugs on [GitHub Issues](https://github.com/qayadatorg/TikTok-Auto-Studio/issues)
+- **Updates**: Automatic updates or download from [GitHub Releases](https://github.com/qayadatorg/TikTok-Auto-Studio/releases)
 - **Documentation**: Check this README for latest information
 
 ---
 
-**⚡ TikTok Auto Studio v1.0.0 - Upload Smarter, Not Harder** ⚡
+**⚡ TikTok Auto Studio v1.0.2 - Upload Smarter, Not Harder** ⚡
